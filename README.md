@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dogaelifkonuk
 - 👀 I’m interested in programming
-- 👀 I'm a junior Computer Science student at Bilkent University
+- 👀 I'm a Senior Computer Science student at Bilkent University
 
 
 <!---
